@@ -33,11 +33,11 @@ int main() {
 	// Creating arrays and essential variables for further plotting the data
 	vector <vector <double> > orig_data(n_samples, vector<double>(2));
 	vector <vector <double> > pred_data(n_samples, vector<double>(2));
-	size_t height = 160;
-	size_t width = 160;
-	long double xmin = -20;
+	size_t height = 80;
+	size_t width = 80;
+	long double xmin = 0;
 	long double xmax = 20;
-	long double ymin = -20;
+	long double ymin = 0;
 	long double ymax = 20;
 	graphs::options aoptions;
 	aoptions.type = graphs::type_block;
