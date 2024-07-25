@@ -45,4 +45,9 @@ Once compiled, run the executable file:
 ```
 
 ### Example Output
+
 The output includes the coefficients of the linear model and a graph plotting the actual vs. predicted values.
+
+### Additional Information
+
+For more details on the implementation, check out the [Medium post](https://medium.com/@tigrankh02/ml-tutorial-linear-regression-in-c-9d04e719a7e1).
